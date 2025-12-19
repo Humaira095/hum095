@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MT101",
+    "name": "Carrara White Marble",
+    "size": "24x24 inches",
+    "pricePerSqFt": 18,
+    "color": "White",
+    "stock": 120,
+    "origin": "Italy"
+  },
+  {
+    "id": "MT102",
+    "name": "Black Galaxy Marble",
+    "size": "18x18 inches",
+    "pricePerSqFt": 22,
+    "color": "Black",
+    "stock": 80,
+    "origin": "India"
+  }
+]
